@@ -1,4 +1,4 @@
-## 中文HOME-CLIP
+## HOME-CLIP
 基于家装家居场景对chineseclip进行微调的模型，效果不错。整体项目clone自 https://github.com/OFA-Sys/Chinese-CLIP
 
 ## 1.训练
