@@ -1,5 +1,5 @@
-## 中文clip
-整体项目clone自 https://gitee.com/leeguandong/Chinese-CLIP，阿里巴巴的这个项目现在已经闭源，目前再度开源，代码https://github.com/OFA-Sys/Chinese-CLIP
+## 中文HOME-CLIP
+基于家装家居场景对chineseclip进行微调的模型，效果不错。整体项目clone自 https://github.com/OFA-Sys/Chinese-CLIP
 
 ## 1.训练
 - **单击多卡训练**
